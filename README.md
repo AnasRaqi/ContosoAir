@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/araqi/Git/_apis/build/status/AnasRaqi.ContosoAir?branchName=master)](https://dev.azure.com/araqi/Git/_build/latest?definitionId=16&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
